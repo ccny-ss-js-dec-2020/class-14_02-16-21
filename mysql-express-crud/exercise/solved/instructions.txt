@@ -1,0 +1,17 @@
+1. In MySQL Developer:
+  a. Create a table call 'cat_breeds'
+2. In Node:
+  a. Write an api that interacts with the 'cat_breeds' table using
+     all of the CRUD operations
+  b. There should be api calls that:
+    - Read (Get) all of the cat breeds
+    - Read (Get) a single cat breed
+    - Create (Post) a new cat breed
+    - Update (Put) a cat breed already in the database
+    - Delete (Delete) a cat breed already in the database
+3. In Postman:
+  a. Insert all of the cat breed records into the database
+  b. Get all of the cat breeds
+  c. Get a single cat breed
+  d. Update a cat breed(s)
+  e. Delete a cat breed(s)
