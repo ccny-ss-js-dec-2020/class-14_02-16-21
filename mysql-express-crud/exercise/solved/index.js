@@ -60,7 +60,7 @@ app.post('/cats', function(req, res){
   if(req.body.breed){
     breed = "'"+req.body.breed+"'";
   }
-  if(req.body.life_span){
+  if(req.body.lifespan){
     life_span = "'"+req.body.lifespan+"'"
   }
   if(req.body.origin){
